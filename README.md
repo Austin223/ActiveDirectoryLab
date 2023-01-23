@@ -43,8 +43,18 @@ Add my own domain admin account a-:  <br/>
 <img src="https://i.imgur.com/ksdukxr.png" height="80%" width="80%">
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Installing Remote Access Server and NAT:  <br/>
+<img src="https://i.imgur.com/5VPYC9t.png" height="80%" width="80%" alt="Installing Remote Access Server and NAT"/>
+<img src="https://i.imgur.com/GdWmDSg.png" height="80%" width="80%">
+<br />
+<br />
+DHCP Scope and DNS server:  <br/>
+<img src="https://i.imgur.com/u2GPU4B.png" height="80%" width="80%" alt="DHCP Scope and DNS server"/>
+<img src="https://i.imgur.com/KVX9stQ.png" height="80%" width="80%">
+<br />
+<br />
+Enabling (Normal browsing):  <br/>
+<img src="https://i.imgur.com/PblkOH8.png" height="80%" width="80%" alt="Enabling (Normal browsing)"/>
 </p>
 
 <!--
