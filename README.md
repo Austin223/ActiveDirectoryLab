@@ -74,6 +74,17 @@ Adding default gateway for Client1 user:  <br/>
 <br />
 Ping mydomain.com to varify everthing is working properly:  <br/>
 <img src="https://i.imgur.com/HLfFU0r.png" height="80%" width="80%" alt="Ping mydomain.com to varify everthing is working properly"/>
+<br />
+<br />
+Joining the domain as User1:  <br/>
+<img src="https://i.imgur.com/U5NquEF.png" height="80%" width="80%" alt="Joining the domain as User1"/>
+<img src="https://i.imgur.com/3xKah8y.png" height="80%" width="80%">
+<img src="https://i.imgur.com/qnTYnzs.png" height="80%" width="80%">
+<br />
+<br />
+Logging into client computer:  <br/>
+<img src="https://i.imgur.com/U5NquEF.png" height="80%" width="80%" alt="Logging into client computer"/>
+<img src="https://i.imgur.com/TLufgyU.png" height="80%" width="80%">
 </p>
 
 <!--
