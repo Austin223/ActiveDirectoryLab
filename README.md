@@ -55,6 +55,25 @@ DHCP Scope and DNS server:  <br/>
 <br />
 Enabling (Normal browsing):  <br/>
 <img src="https://i.imgur.com/PblkOH8.png" height="80%" width="80%" alt="Enabling (Normal browsing)"/>
+<br />
+<br />
+Powershell script adding 1000 users:  <br/>
+<img src="https://i.imgur.com/xlXD7WH.png" height="80%" width="80%" alt="Powershell script adding 1000 users"/>
+<img src="https://i.imgur.com/vyy7MhZ.png" height="80%" width="80%">
+<img src="https://i.imgur.com/eIxn1sK.png" height="80%" width="80%">
+<br />
+<br />
+Configure Client 1 to connect to internal network adapter as well as install windows 10 onto the Client:  <br/>
+<img src="https://i.imgur.com/INyRBtW.png" height="80%" width="80%" alt="Configure Client 1 to connect to internal network adapter as well as install windows 10 onto the Client"/>
+<br />
+<br />
+Adding default gateway for Client1 user:  <br/>
+<img src="https://i.imgur.com/Te2MHSL.png" height="80%" width="80%" alt="Adding default gateway for Client1 user"/>
+<img src="https://i.imgur.com/9NN6Vxm.png" height="80%" width="80%">
+<br />
+<br />
+Ping mydomain.com to varify everthing is working properly:  <br/>
+<img src="https://i.imgur.com/HLfFU0r.png" height="80%" width="80%" alt="Ping mydomain.com to varify everthing is working properly"/>
 </p>
 
 <!--
